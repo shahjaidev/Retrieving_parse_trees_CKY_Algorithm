@@ -1,7 +1,7 @@
 """
 COMS W4705 - Natural Language Processing - Spring 2019
-Homework 2 - Parsing with Context Free Grammars
-Yassine Benajiba
+Homework - Parsing with Context Free Grammars
+Jaidev Shah, js5161
 """
 import math
 import sys
