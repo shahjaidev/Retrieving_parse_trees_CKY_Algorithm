@@ -1,5 +1,4 @@
 """
-COMS W4705 - Natural Language Processing - Spring 2019
 Homework - Parsing with Context Free Grammars
 Jaidev Shah, js5161
 """
